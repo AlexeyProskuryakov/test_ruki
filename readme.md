@@ -6,7 +6,7 @@ pip install py-postgresql
 # Db
 ```
 psql -a -U postgres --password -f grants.sql
-psql -a -d hotels -U hotels_manager -f schema.sql
+psql -a -d test_ruki -U test_ruki_manager -f schema.sql
 ```
 
 # Info (ru)
